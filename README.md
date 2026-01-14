@@ -10,7 +10,7 @@ Berikut 3 karya terbaik saya: artikel opini, artikel berita, dan konten kreatif 
 | Thumbnail | Deskripsi & Link |
 |-----------|----------------|
 | ![Medical Screening](medical-screening.jpg) | **Artikel Opini: Medical Screenings**<br>Opini tentang bagaimana pemeriksaan medis sering menyaring orang berbakat dengan kondisi kronis, padahal mereka tetap mampu bekerja. Menekankan sistem perekrutan yang adil dan manusiawi.<br>[Baca Artikel](https://www.linkedin.com/posts/estherbaban_medical-screenings-protecting-workers-or-activity-7416874276907036673-dCzn) |
-| ![Selena Rare Beauty](selena-rare-beauty.jpg) | **Artikel Berita: Selena Gomez Sells Rare Beauty**<br>Berita dan analisis tentang keputusan Selena Gomez menjual Rare Beauty, dampaknya pada brand awareness dan loyalitas fans.<br>[Baca Artikel](https://www.linkedin.com/posts/estherbaban_example-link) |
+| ![Selena Rare Beauty](selena-rare-beauty.jpg) | **Artikel Berita: Selena Gomez Sells Rare Beauty**<br>Berita dan analisis tentang keputusan Selena Gomez menjual Rare Beauty, dampaknya pada brand awareness dan loyalitas fans.<br>[Baca Artikel](https://www.linkedin.com/feed/update/urn:li:activity:7180611037769998338?utm_source=share&utm_medium=member_android&rcm=ACoAADUKiK4BC4PvGspIQqZnZxOYouevVYNvpac) |
 | ![Sambel Hejo](sambel-hejo.jpg) | **Konten Kreatif / Media Sosial: Sambel Hejo**<br>Postingan testimonial pelanggan, dibuat untuk meningkatkan engagement dan membangun kepercayaan audiens.<br>[Lihat Postingan](https://www.instagram.com/p/example) |
 
 ---
